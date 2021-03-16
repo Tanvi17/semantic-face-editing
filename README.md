@@ -31,9 +31,13 @@ To train hair color conversion:
 Results
 ----------------
 
-Example result shows x_A, x_AB, x_ABA and x_B, x_BA, x_BAB
+Example result shows images generate from x_A, x_AB, x_ABA and x_B, x_BA, x_BAB models
 
-To check hair color conversion, visit
+Eyeglasses 
+
+<img src="assets/glasses.png" width="600px">
+
+Hair color conversion
 
 <img src="assets/b2b.png" width="600px">
 
